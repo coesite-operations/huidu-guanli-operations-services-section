@@ -14,25 +14,16 @@ provenance:
   recorded-by: rom-keldar/phase2-huidu-guanli
   recorded-on: 2026-07-14
 ---
-Fa (法), "law" or "system," names codified, public, uniformly applied rule: the level at which an organization is governed by institution rather than by the judgment of whoever currently holds power.
+**Fa** (法, *law* or *institutional rule*) denotes codified rules that members can know and apply independently of any current leader's personal preference. In the Legalist-informed reading used here, its defining aspirations are **explicitness, publicity and uniform application**, including to powerful members.
 
-Fa has three defining properties, and dropping any one of them dissolves it.
-It must be written down, so that it exists independently of anyone's memory or interpretation.
-It must be public, so that anyone subject to it can know in advance what is required and can tell when it has been violated.
-And it must apply uniformly, binding the senior as well as the junior — the classical Legalist formulation is that law does not flatter the noble, and its whole force comes from the powerful being subject to it.
-A rule the leadership can quietly exempt itself from is not fa; it is the appearance of institution laid over personal rule, and it is worse than no rule at all, because it teaches everyone that the written standard is not the real one.
+## What makes a rule institutional
 
-In corporate practice fa is process institutionalization: the conversion of capability that lives in individuals into capability that lives in the organization.
-Huawei's central case is its integrated product development process, adopted from IBM beginning in the late 1990s at very large expense, which replaced heroic individual engineering with a defined, auditable development procedure.
-The company's founding charter, drafted in the 1990s as an explicit constitutional document, is fa in the same sense: a written statement of how the company decides, binding on its own leadership.
-The characteristic instruction accompanying such adoptions — first wear the shoes and learn to walk, and only later consider modifying them — expresses fa's discipline directly: the point of a process is that it is followed rather than renegotiated by each person who encounters it, since a process amended at the point of use is not a process.
+A rule that can be silently waived by leadership behaves differently from one whose scope, amendment and exceptions are openly governed. Recording a rule is therefore not enough: its actual users must be able to identify the applicable version, see a consequential exception, and challenge or verify how it was applied. This is the distinction between a source rule and an *observed* institutional practice.
 
-The mechanism is that fa makes an organization's performance independent of its luck in personnel.
-Where capability is personal, it leaves when the person leaves, cannot be taught except by apprenticeship, and varies with mood and attention.
-Where capability is institutional, it is inherited by every newcomer, improves by amendment rather than by replacement of people, and is auditable — one can ask whether the process was followed, which is a question with an answer, rather than whether someone exercised good judgment, which usually is not.
+The glossary's corporate example is Huawei's adoption of IBM-informed integrated product development processes beginning in the late 1990s. The example concerns the intended transfer of recurring engineering work from individual judgment into repeatable, auditable processes; it does not certify that every Huawei decision or current team follows the same rule. A company's charter likewise expresses an institutional claim whose actual operation must be separately examined.
 
-The concept's boundaries matter.
-Fa is not bureaucracy, though it decays into bureaucracy when process is retained after the purpose it served is gone.
-It is not technique or method, which is the level below and concerns how a given task is performed, whereas fa concerns which procedure is binding.
-It is not the organization's direction, which is the level above and which fa serves — a well-run institution pointed the wrong way executes its error reliably.
-And it is not culture or shared understanding: fa's force comes precisely from being explicit and enforceable rather than from being internalized, which is why an organization that says its rules live in its people's instincts has not yet reached this level.
+## Relations and limits
+
+[Dao](dao.md) supplies direction; Fa makes recurring obligations explicit; [Shu](shu.md) supplies revisable methods of fulfilling them. [Shi](shi.md) concerns the resulting position or advantage, not the rule itself. The distinction matters when a technique succeeds locally but bypasses a legitimate rule, or a formerly useful rule persists after its purpose has changed.
+
+Fa is not bureaucracy as an end, tacit organizational culture, a private tactic, or automatic proof of justice. An explicit rule can still be unsound, inconsistently enforced, or misaligned with the user. Its usefulness requires both coherent source terms and witnessed application; changing the rule should occur through its legitimate authority rather than an improvised exception.
