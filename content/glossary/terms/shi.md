@@ -14,26 +14,16 @@ provenance:
   recorded-by: rom-keldar/phase2-huidu-guanli
   recorded-on: 2026-07-14
 ---
-Shi (勢), "positional power" or "momentum," names advantage that inheres in a configuration rather than in an action: the force a position exerts on its own, independent of the qualities of whoever occupies it.
+**Shi** (勢, *positional power* or *situational momentum*) means advantage arising from the arrangement in which an actor operates, rather than exclusively from that actor's effort or talent. The classical argument asks whether an institution can reliably produce a required result without relying on an exceptional person in every office.
 
-The classical argument is a claim about offices.
-A capable person in a powerless position accomplishes nothing, while a mediocre person in a commanding position is obeyed — therefore what does the work is the position, not the person.
-The Legalist tradition draws the organizational conclusion directly: build positions such that ordinary people occupying them produce the outcomes you want, rather than staffing weak positions with exceptional people and depending on their exceptionality.
-An organization that requires talent in every seat has no shi and is one departure away from failure.
+## Configuration and accumulated possibility
 
-The concept's second sense is momentum or accumulated potential — the stored energy of a situation, classically figured as water poised behind a dam or a boulder resting on a slope.
-Neither exerts effort; both are dangerous entirely because of where they sit.
-The corresponding practice is the deliberate building-up of potential before release: positioning so that when action finally comes it is nearly unopposed, because the configuration has already decided the outcome.
-In business use this appears as the patient accumulation of a position — in technology, in relationships, in cost structure — over a period during which the accumulation produces no visible return, followed by a release that competitors experience as sudden and cannot answer, because answering it would require the years of accumulation they did not do.
-Huawei's long, unprofitable investment in core technology, sustained specifically so that the option to use it would exist when needed, is this pattern.
+Position determines which actions are available, who can perform them, and which effects continue without repeated direct intervention. The familiar images of stored water or a rock on a slope illustrate *potential under a configuration*; they are not quantitative models of an enterprise.
 
-The mechanism is that shi converts effort from a recurring cost into a one-time one.
-Where an outcome depends on action, it must be produced again every time, and it fails whenever attention lapses.
-Where an outcome follows from position, it is produced by default, and sustaining it costs nothing.
-This is why shi is the level at which the classical tradition connects to non-action: a leader with sufficient shi need not act, since the configuration is already doing what action would have had to do.
+In business commentary, sustained investment in technology, relationships, capabilities or supply chains can create options that competitors cannot immediately reproduce. Huawei's long-horizon technology investment is often used as an example. Whether any particular investment created a durable advantage requires dated evidence about cost, capability, adoption and rival alternatives. A strong position **still has maintenance costs**, and favorable recent results alone do not prove structural momentum.
 
-The concept's boundaries matter.
-Shi is not technique — technique concerns the moves made from a position, shi the position from which moves are made, and the same move made from different positions is a different move.
-It is not law, though law is one of the strongest instruments for constructing shi, since an institution reshapes the configuration everyone acts within.
-It is not direction, and a strong position pointed the wrong way merely arrives at the wrong place faster and with more force.
-And it is not momentum in the loose sense of things currently going well: shi is structural, and a run of good results built on nothing but effort and favorable conditions is its opposite, since it must be renewed continuously and vanishes the moment the effort stops.
+## What Shi does not substitute for
+
+[Dao](dao.md) determines the direction in which an advantage should be used; [Fa](fa.md) supplies institutional rules; [Shu](shu.md) names methods of acting from the position. Shi is none of these. Its connection to [wu wei](wu-wei.md) is conditional: when a reliable configuration carries an authorized task, repeated personal intervention may be unnecessary. If the position is unproven, unsafe or unreceived by its beneficiary, inaction is not made justified by invoking Shi.
+
+Describe the actual source, observer, constraints and receiver before calling a configuration advantageous. The term is not a synonym for a management title, an effortless victory, or simply “things going well.”
